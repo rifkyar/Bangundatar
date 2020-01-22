@@ -1,0 +1,6 @@
+H:\WORK\C# Net all project\BangunDatar2\BangunDatar2\bin\Debug\BangunDatar2.exe.config
+H:\WORK\C# Net all project\BangunDatar2\BangunDatar2\bin\Debug\BangunDatar2.exe
+H:\WORK\C# Net all project\BangunDatar2\BangunDatar2\bin\Debug\BangunDatar2.pdb
+H:\WORK\C# Net all project\BangunDatar2\BangunDatar2\obj\Debug\BangunDatar2.exe
+H:\WORK\C# Net all project\BangunDatar2\BangunDatar2\obj\Debug\BangunDatar2.pdb
+H:\WORK\C# Net all project\BangunDatar2\BangunDatar2\obj\Debug\BangunDatar2.csprojResolveAssemblyReference.cache
